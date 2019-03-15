@@ -1,4 +1,5 @@
-
+![](https://img.shields.io/badge/Django-1.6.2-brightgreen.svg)
+![](https://img.shields.io/badge/django--twilio-0.4.0-red.svg)
 # Twilio & Django
 
 This is a simple Django application demonstrating how to integrate 
