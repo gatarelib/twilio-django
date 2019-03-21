@@ -23,7 +23,7 @@ This will install:
 3. Open the urls.py to see how the URL configuration has been done
 
 
-4. Open the views.py to see how the views are set up.
+4. Open the views.py to see how the views are implemented.
 
 5. Get the server running with:
 
@@ -41,7 +41,7 @@ You can use cURL to test the server, this will output the [TWiML][2] response:
     <?xml version="1.0" encoding="UTF-8"?>
         <Response>
             <Message>
-                <Body>Hello world! Get in touch - paul@twilio.com</Body>
+                <Body>Hello world! Get in touch - libere@twilio.com</Body>
             </Message>
         </Response>
 ```
