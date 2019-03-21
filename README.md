@@ -41,7 +41,7 @@ You can use cURL to test the server, this will output the [TWiML][2] response:
     <?xml version="1.0" encoding="UTF-8"?>
         <Response>
             <Message>
-                <Body>Hello world! Get in touch - libere@twilio.com</Body>
+                <Body>Hello world! Get in touch - gatarelib@twilio.com</Body>
             </Message>
         </Response>
 ```
